@@ -11,11 +11,14 @@ This repo serves as a reference for the Space Africa DAO Buidl at the EthDenver2
 ### Project Details
 
 - Problem/Solution Statement 
+    - https://github.com/SpaceAfrica/EthDenver2022/
 
 
 - DAO Governance
     - Purpose and Principles
-    - Structure
+        - https://github.com/SpaceAfrica/EthDenver2022/
+    - Organization Structure
+        - https://github.com/SpaceAfrica/EthDenver2022/
 
 
 - Buidlathon Demo
