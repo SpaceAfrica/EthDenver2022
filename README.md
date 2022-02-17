@@ -19,7 +19,7 @@ The demo for the ecosystem is based on a digital immersive environment (metavers
 ### Project Details
 
 - Problem/Solution Statement 
-    - https://github.com/SpaceAfrica/EthDenver2022/
+    - https://github.com/SpaceAfrica/EthDenver2022/tree/main/Problem%20%26%20Solution%20Statement
 
 
 - DAO Governance
