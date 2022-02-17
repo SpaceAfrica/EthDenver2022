@@ -24,14 +24,13 @@ The demo for the ecosystem is based on a digital immersive environment (metavers
 
 - DAO Governance
     - Purpose and Principles
-        - https://github.com/SpaceAfrica/EthDenver2022/
+        - https://github.com/SpaceAfrica/EthDenver2022/tree/main/DAO%20Governance/Purpose%20%26%20Principles
     - Organization Structure
-        - https://github.com/SpaceAfrica/EthDenver2022/
+        - https://github.com/SpaceAfrica/EthDenver2022/tree/main/DAO%20Governance/Organization%20Structure
 
 
 - Buidlathon Demo
-    - Description
-        - https://github.com/SpaceAfrica/EthDenver2022/
+    - https://github.com/SpaceAfrica/EthDenver2022/tree/main/Buidlathon%20Demo
     - https://youtube.com/
     - https://spaceafrica.xyz
 
