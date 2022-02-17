@@ -20,4 +20,6 @@ This repo serves as a reference for the Space Africa DAO Buidl at the EthDenver2
 
 - Buidlathon Demo
 
+    - https://youtube.com/
+    - https://spaceafrica.xyz
 
