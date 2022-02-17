@@ -1,4 +1,4 @@
-# Space Africa DAO Purpose & Principles
+# Purpose & Principles
 
 The operating and design principles, and purpose of the SpaceRanch organization are defined in this document. These definitions are the foundation for the organization structure of the Space Africa DAO.
 
