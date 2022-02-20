@@ -33,6 +33,9 @@ The demo for the SpaceAfrica ecosystem runs in a digital immersive environment (
 - DAO Module
     - https://github.com/SpaceAfrica/SpaceDAO
 
+- Metaverse Demo
+    - https://github.com/SpaceAfrica/MetaverseDemo
+
 - Demo Links
     - https://www.youtube.com/watch?v=l78nex4sR9M&list=PLyVvaXqKlWDZUaqi_l2_phccBRsMoaNEr
     - https://spaceafrica.xyz
