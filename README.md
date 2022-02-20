@@ -33,8 +33,6 @@ The demo for the SpaceAfrica ecosystem runs in a digital immersive environment (
 - DAO Module
     - https://github.com/SpaceAfrica/SpaceDAO
 
-- Buidlathon Demo
-    - https://github.com/SpaceAfrica/EthDenver2022/tree/main/Buidlathon%20Demo
-    - https://youtube.com/
+- Demo Links
+    - https://www.youtube.com/watch?v=l78nex4sR9M&list=PLyVvaXqKlWDZUaqi_l2_phccBRsMoaNEr
     - https://spaceafrica.xyz
-
